@@ -1,10 +1,3 @@
-
-
-Of course. Here is the simple but powerful GDD template formatted in Markdown. You can copy and paste this directly into a `.md` file (e.g., `GDD.md`) in your project's repository.
-
----
-
-```markdown
 # The Indie GDD: A Living Blueprint
 
 > **Philosophy:** This document is not a novel; it's a blueprint. It's a *living document* meant to be updated, referenced, and changed as the game evolves. Its purpose is to:
@@ -135,4 +128,3 @@ Of course. Here is the simple but powerful GDD template formatted in Markdown. Y
 
 ### 5.3. Reference Links
 > Links to Google Drive, Miro boards, Pinterest, inspiration games, etc.
-```
